@@ -1,0 +1,74 @@
+[
+  {
+    "id":"POL-ACC-01",
+    "title":"Account access and password resets",
+    "category":"Access",
+    "text":"Employees who cannot sign in should first use the approved self-service password reset portal. The service desk may help with account recovery only after verifying the employee through the approved identity process. Never request a password, password reset code, or MFA one-time code in an email or support ticket. Access restoration must be confirmed with the employee."
+  },
+  {
+    "id":"POL-ACC-02",
+    "title":"Multi-factor authentication recovery",
+    "category":"Access",
+    "text":"If a staff member loses access to their MFA authenticator, route the request to the identity team for identity verification. Do not disable MFA based on a message alone. The identity team must record its approval and verify ownership before enrolling a replacement authenticator."
+  },
+  {
+    "id":"POL-BILL-01",
+    "title":"Refund eligibility and review",
+    "category":"Billing",
+    "text":"Refund requests must be reviewed against the customer's contract, transaction record, and published refund terms. The service desk may acknowledge and route requests but must not promise a refund before finance approval. If invoice details are missing, request the invoice number through an approved channel."
+  },
+  {
+    "id":"POL-BILL-02",
+    "title":"Duplicate charges and invoice discrepancies",
+    "category":"Billing",
+    "text":"Potential duplicate charges, billing mismatches, or unexplained fees should be sent to the billing team with the relevant invoice reference and a summary of the discrepancy. The billing team must check transaction history before adjusting an invoice. Do not request full payment-card numbers."
+  },
+  {
+    "id":"POL-SEC-01",
+    "title":"Phishing and suspicious emails",
+    "category":"Security",
+    "text":"Report suspicious links, unsolicited attachments, impersonation messages, and potential phishing to the security team. Employees should not click unknown links, open suspicious attachments, or share credentials. If a user clicked a suspicious link or entered a password, escalate immediately for security investigation and account protection."
+  },
+  {
+    "id":"POL-SEC-02",
+    "title":"Lost devices and suspected data exposure",
+    "category":"Security",
+    "text":"Lost laptops, stolen mobile devices, suspected data leaks, and accidental external sharing of sensitive information require urgent referral to the security team. The security team decides whether to disable access, initiate remote lock, preserve evidence, and notify affected parties. The service desk must not claim incident containment without confirmation."
+  },
+  {
+    "id":"POL-HW-01",
+    "title":"Laptop and equipment problems",
+    "category":"Hardware",
+    "text":"For laptops that will not start or have hardware faults, the service desk records the asset identifier and symptoms, then arranges diagnostics or a replacement assessment. Never promise a replacement or repair deadline without inventory and technician confirmation."
+  },
+  {
+    "id":"POL-HW-02",
+    "title":"Peripheral setup and connectivity",
+    "category":"Hardware",
+    "text":"For monitors, docking stations, headsets, and printers, staff should confirm physical connections, power, and approved drivers before requesting an equipment inspection. If the problem continues, route to desktop support with device make and model."
+  },
+  {
+    "id":"POL-SW-01",
+    "title":"Software installation and licenses",
+    "category":"Software",
+    "text":"Requests for new software, application access, or license upgrades must be checked against approved software and role-based access lists. Paid-license requests need manager and procurement review. Do not advise installing unapproved programs on company-managed devices."
+  },
+  {
+    "id":"POL-SW-02",
+    "title":"Application crashes and performance",
+    "category":"Software",
+    "text":"For crashes, slow applications, and errors, collect the application name, affected environment, error message, and approximate time. Verify service status and escalate persistent defects to application support. Avoid asserting a root cause before troubleshooting."
+  },
+  {
+    "id":"POL-GEN-01",
+    "title":"Service request priorities and handoff",
+    "category":"General",
+    "text":"Requests should be categorized and routed to the team responsible for the affected service. Critical outages affecting multiple users and reports of ongoing security compromise take precedence over ordinary single-user requests. Acknowledge requests without promising a specific resolution time unless an approved service-level agreement applies."
+  },
+  {
+    "id":"POL-GEN-02",
+    "title":"Human review and communication standards",
+    "category":"General",
+    "text":"Draft messages must be checked by a human before sending. The operator should avoid unsupported guarantees, request only the minimum necessary information, and avoid exposing credentials or private data. The demo's approval action records a proposed decision but does not send emails, change accounts, or issue refunds."
+  }
+]

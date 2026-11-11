@@ -1,0 +1,13 @@
+id,requester,subject,description,expected_category,expected_priority
+REQ-001,Avery,Locked out of work account,"I forgot my password and cannot log in to the employee portal after my vacation.",Access,Medium
+REQ-002,Morgan,Authenticator lost,"My phone was replaced and I cannot get into my MFA authenticator for the company dashboard.",Access,Medium
+REQ-003,Jordan,Refund on service,"Can I get a refund for the subscription renewal? I was billed for this month.",Billing,Medium
+REQ-004,Taylor,Duplicate invoice charge,"Our invoice shows two duplicate charges for the same purchase. Please review the bill.",Billing,Medium
+REQ-005,Riley,Suspicious email clicked,"Urgent: I clicked a phishing link and entered my password into a suspicious website.",Security,Critical
+REQ-006,Casey,Missing work laptop,"My work laptop was stolen this morning from my bag. It may contain client files.",Security,Critical
+REQ-007,Jamie,Laptop will not boot,"My company laptop won't turn on even after plugging in the charger.",Hardware,Medium
+REQ-008,Drew,Monitor not connecting,"My docking station connects but my second monitor doesn't display anything.",Hardware,Low
+REQ-009,Sam,Install design application,"I need a new paid software license for the design application on my work machine.",Software,Medium
+REQ-010,Quinn,App crashes on launch,"The payroll application crashes every time I open it and shows an error message.",Software,Medium
+REQ-011,Alex,New employee onboarding,"Where do I submit a general IT service request for a new team member?",General,Low
+REQ-012,Blair,Department-wide outage,"Urgent outage: the entire department cannot access any internal tools right now.",General,Critical
